@@ -23,4 +23,3 @@ function sayHiGrandma(string){
   mixCase.toUpperCase() === mixCase
   mixCase.toLowerCase() === mixCase
 }
-  
