@@ -19,5 +19,8 @@ function sayHiGrandma(string){
   uppercase.toUpperCase() === uppercase
   var lowercase = 'hello'
   lowercase.toLowerCase() === lowercase
+  var mixCase = 'Hi there!'
+  mixCase.toUpperCase() === mixCase
+  mixCase.toLowerCase() === mixCase
 }
   
